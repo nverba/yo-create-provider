@@ -1,0 +1,36 @@
+{
+  "name": "create-provider",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "create-provider.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "3f88637374",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3f88637374e7895cc57eb5c47fba16ddd3475133"
+  },
+  "_source": "git://github.com/nverba/yo-create-provider.git",
+  "_target": "master",
+  "_originalSource": "nverba/yo-create-provider",
+  "_direct": true
+}
